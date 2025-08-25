@@ -36,7 +36,7 @@ This way, you can keep your focus without annoying interruptions, whether you’
 ---
 
 ## 💡 Philosophy
-Instead of blocking ads entirely, **Shut The F* Up** embraces a quieter path:  
+Instead of blocking ads entirely, **Shut The F\* Up** embraces a quieter path:  
 - Ads are allowed to run, but you don’t have to listen.  
 - Occasional long ads become rare moments of **silence and solitude**.  
 - No broken playback, no arms race, just a smoother YouTube experience.  
@@ -52,4 +52,5 @@ Instead of blocking ads entirely, **Shut The F* Up** embraces a quieter path:
 
 ## 📝 License
 MIT License.  
+
 
