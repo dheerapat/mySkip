@@ -1,8 +1,7 @@
 new MutationObserver(() => {
-    const skipButton = document.querySelector(".ytp-ad-skip-button-container");
-    const closeButton = document.querySelector(".ytp-ad-overlay-close-button");
+    const skipButton = document.querySelector(".ytp-skip-ad-button");
 
-    skipButton?.click() ?? closeButton?.click();
+    skipButton?.click()
 }).observe(document.body, {
     childList: true,
     subtree: true
