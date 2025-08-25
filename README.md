@@ -1,7 +1,7 @@
 # Shut The F* Up  
 *Ad silence, not ad wars.*  
 
-**Shut The F* Up** is a lightweight browser extension that automatically **mutes YouTube ads** until the main video content resumes.  
+**Shut The F\* Up** is a lightweight browser extension that automatically **mutes YouTube ads** until the main video content resumes.  
 
 Instead of fighting YouTube’s ever-evolving ad-block detection, this extension takes a different approach:  
 👉 Let YouTube play the ads — but in silence.  
@@ -52,3 +52,4 @@ Instead of blocking ads entirely, **Shut The F* Up** embraces a quieter path:
 
 ## 📝 License
 MIT License.  
+
