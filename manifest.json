@@ -1,34 +1,13 @@
 {
-    "manifest_version": 3,
-    "name": "mySkip",
-    "description": "Extension for automatically skipping video ads and closing banner ads on YouTube",
-    "version": "2.0",
-    "content_scripts": [
-        {
-            "matches": ["*://*.youtube.com/*"],           
-            "js": ["main.js"],
-            "run_at": "document_end"
-        }
-    ],
-    "icons": {
-        "16": "icon.png",
-        "32": "icon.png",
-        "48": "icon.png",
-        "128": "icon.png"
-    },
-    "permissions": [
-        "activeTab"
-    ],
-    "host_permissions": [
-        "*://*.youtube.com/*"
-    ],
-    "action": {
-        "default_popup": "popup.html",
-        "default_icon": {
-            "16": "icon.png",
-            "32": "icon.png",
-            "48": "icon.png",
-            "128": "icon.png"
-        }
+  "manifest_version": 3,
+  "name": "YouTube Auto Mute Ads",
+  "version": "1.0",
+  "description": "Automatically mutes YouTube videos when ads play.",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["main.js"]
     }
+  ]
 }
